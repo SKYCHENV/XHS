@@ -1,0 +1,1 @@
+// React voting app main file
